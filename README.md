@@ -10,7 +10,7 @@ Modular Architecture: Designed with a modular structure for easy scalability and
 
 # Installation
 Clone the repository: </br>
-git clone https://github.com/your-username/your-project.git </br>
+git clone https://github.com/Rutuja-coder08/Gemini-Clone.git </br>
 
 Navigate to the project directory:
 cd your-project </br>
