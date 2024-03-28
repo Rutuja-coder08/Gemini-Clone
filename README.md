@@ -1,6 +1,9 @@
 # Gemini React+Vite and Generative AI Project
 # Overview
-This project combines the power of Gemini, a React framework utilizing Vite for fast builds, with Generative AI techniques to create a dynamic and innovative application. It leverages modern web technologies to provide an interactive user experience driven by generative models.
+This project combines the power of Gemini, a React framework utilizing Vite for fast builds, with Generative AI techniques to create a dynamic and innovative application. It leverages modern web technologies to provide an interactive user experience driven by generative models.<br>
+
+# Deploy : 
+https://dynamic-haupia-a2ba67.netlify.app/
 
 # Features
 Gemini Framework: Utilizes React with Vite for rapid development and efficient bundling.</br>
